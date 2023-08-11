@@ -2,7 +2,7 @@
   "extends": ["airbnb", "plugin:prettier/recommended", "prettier/react"],
   "plugins": ["prettier"],
   "parser": "babel-eslint",
-  "globals": {
+  "globals": {   
     "window": true,
     "Audio": true,
     "document": true,
